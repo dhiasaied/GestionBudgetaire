@@ -1,0 +1,4 @@
+enum BudgetPeriod {
+  weekly,
+  monthly,
+}
